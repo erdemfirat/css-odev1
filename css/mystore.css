@@ -1,0 +1,30 @@
+.ana-baslik{
+    color: red;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.top-bar{
+    text-align: center;
+    margin: 0 auto;
+    align-items: center;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.center{
+    text-align: center; 
+    align-items: center;  
+    
+}
+ul{
+    display:inline-block;
+}
+img{
+    width: 400;
+}
+ol{
+    display: inline-block;
+}
+h4{
+    color: khaki;
+}
